@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Potato Chips",
+        "fat": 10.5,
+        "carbohydrates": 20.3
+    },
+    {
+        "name": "Chocolate Bar",
+        "fat": 15.2,
+        "carbohydrates": 30.1
+    },
+    // Add more ingredient data
+]
